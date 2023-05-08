@@ -3,7 +3,7 @@
 ## Zayar Htet - DRCVG2 <br>
 This solution was submitted by the student named above for a Web-programming assignment. <br>
 Hereby I declare that the solution is my own work. I did not copy or use solutions from a third party. I did not share this solution with fellow students, and I did not publish it. <br>
-According to the Academic Regulations for Students (Eötvös Loránd University Organisational and Operational Regulations – Volume 2, Section 74/C), a student purporting the intellectual property of others as their own [...] is committing a disciplinary offence. <br>
+According to the Academic Regulations for Students (Eötvös Loránd University Organisational and Operational Regulations – Volume 2, Section 74/C), a student purporting the intellectual property of others as their own is committing a disciplinary offence. <br>
 The worst result of a disciplinary offence can be the expulsion of the student.
 
 ## Minimum requirements (must be completed, 8 pts)
