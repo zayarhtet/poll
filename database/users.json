@@ -1,0 +1,20 @@
+{
+    "63c29617c4ddc": {
+        "uname": "apple",
+        "pword1": "",
+        "pword2": "",
+        "email": "apple@apple.com",
+        "id": "63c29617c4ddc",
+        "role": "user",
+        "pword": "$2y$10$snD6pOz3YG3XgeoF8tuU5.G.d.HjGp\/j0.ymrzKrqDruAqmdn3iCq"
+    },
+    "63c29877ca16c": {
+        "uname": "admin",
+        "pword1": "",
+        "pword2": "",
+        "email": "admin@admin.com",
+        "id": "63c29877ca16c",
+        "role": "admin",
+        "pword": "$2y$10$qr/ycn5QASceeFRDpjXu/e.t76Bdj6J0hVULbmb2OdCaK1ulWsZ4q"
+    }
+}

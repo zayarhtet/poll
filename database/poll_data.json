@@ -1,0 +1,244 @@
+{
+    "active_poll": [
+        {
+            "id": "63c2e79fdb143",
+            "question": "testing 2?",
+            "options": [
+                {
+                    "value": "yes",
+                    "count": 0,
+                    "percent": 0
+                },
+                {
+                    "value": "no",
+                    "count": 1,
+                    "percent": 100
+                },
+                {
+                    "value": "okie",
+                    "count": 0,
+                    "percent": 0
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2023-01-14 18:34",
+            "deadline": "2023-01-16 18:34",
+            "votedBy": [
+                "admin"
+            ],
+            "voteCount": 1
+        },
+        {
+            "id": "63c2a248b7d51",
+            "question": "nani",
+            "options": [
+                {
+                    "value": "fda",
+                    "count": 0,
+                    "percent": 0
+                },
+                {
+                    "value": "fda",
+                    "count": 0,
+                    "percent": 0
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2023-01-14 12:01",
+            "deadline": "2023-01-16 13:37",
+            "votedBy": [],
+            "voteCount": 0
+        },
+        {
+            "id": "63c2a24b58639",
+            "question": "nani",
+            "options": [
+                {
+                    "value": "fda",
+                    "count": 0,
+                    "percent": 0
+                },
+                {
+                    "value": "fda",
+                    "count": 0,
+                    "percent": 0
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2023-01-14 12:01",
+            "deadline": "2023-01-16 13:37",
+            "votedBy": [],
+            "voteCount": 0
+        },
+        {
+            "id": "63c2e744b30ac",
+            "question": "testing?",
+            "options": [
+                {
+                    "value": "okie",
+                    "count": 0,
+                    "percent": 0
+                },
+                {
+                    "value": "dokie",
+                    "count": 1,
+                    "percent": 100
+                },
+                {
+                    "value": "hehe",
+                    "count": 0,
+                    "percent": 0
+                },
+                {
+                    "value": "haha",
+                    "count": 0,
+                    "percent": 0
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2023-01-14 06:32",
+            "deadline": "2023-01-17 18:32",
+            "votedBy": [
+                "admin"
+            ],
+            "voteCount": 1
+        },
+        {
+            "id": "p11224",
+            "question": "Who had the best performance throughout the tournament?",
+            "options": [
+                {
+                    "value": "Lionel Messi",
+                    "count": 15,
+                    "percent": 41
+                },
+                {
+                    "value": "Kylian Mbappe",
+                    "count": 13,
+                    "percent": 35
+                },
+                {
+                    "value": "Cristiano Ronaldo",
+                    "count": 3,
+                    "percent": 8
+                },
+                {
+                    "value": "Griezmann",
+                    "count": 1,
+                    "percent": 3
+                },
+                {
+                    "value": "Alvarez",
+                    "count": 5,
+                    "percent": 14
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2022-12-12 22:24",
+            "deadline": "2022-12-16 23:59",
+            "votedBy": [
+                "mgmg",
+                "phoophoo",
+                "pwintpwint",
+                "apple",
+                "apple",
+                "apple5"
+            ],
+            "voteCount": 37
+        },
+        {
+            "id": "p21228",
+            "question": "Who deserves the golden glove in the tournament?",
+            "options": [
+                {
+                    "value": "Lloris",
+                    "count": 15,
+                    "percent": 500
+                },
+                {
+                    "value": "Mertinez",
+                    "count": 13,
+                    "percent": 433
+                },
+                {
+                    "value": "idk",
+                    "count": 4,
+                    "percent": 133
+                }
+            ],
+            "isUniqueAnswer": false,
+            "createdAt": "2022-12-12 22:24",
+            "deadline": "2022-12-16 23:59",
+            "votedBy": [
+                "mgmg",
+                "phoophoo",
+                "pwintpwint",
+                "apple",
+                "apple5"
+            ],
+            "voteCount": 3
+        }
+    ],
+    "past_poll": [
+        {
+            "id": "p21230",
+            "question": "Who deserves the golden glove in the tournament?",
+            "options": [
+                {
+                    "value": "Lloris",
+                    "count": 14,
+                    "percent": 73
+                },
+                {
+                    "value": "Mertinez",
+                    "count": 12,
+                    "percent": 23
+                },
+                {
+                    "value": "idk",
+                    "count": 3,
+                    "percent": 3
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2022-12-10 22:24",
+            "deadline": "2022-12-16 23:59",
+            "votedBy": [
+                "mgmg",
+                "phoophoo",
+                "pwintpwint"
+            ],
+            "voteCount": 34
+        },
+        {
+            "id": "p21230",
+            "question": "sup?",
+            "options": [
+                {
+                    "value": "Lloris",
+                    "count": 14,
+                    "percent": 73
+                },
+                {
+                    "value": "Mertinez",
+                    "count": 12,
+                    "percent": 23
+                },
+                {
+                    "value": "idk",
+                    "count": 3,
+                    "percent": 3
+                }
+            ],
+            "isUniqueAnswer": true,
+            "createdAt": "2022-12-11 22:24",
+            "deadline": "2022-12-16 23:59",
+            "votedBy": [
+                "mgmg",
+                "phoophoo",
+                "pwintpwint"
+            ],
+            "voteCount": 34
+        }
+    ]
+}
